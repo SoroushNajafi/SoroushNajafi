@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @SoroushNajafi
+- 👋 Hi, I’m SoroushNajafi
 - 👀 I’m interested in Django and Python
-- 🌱 I’m currently learning Django
 - 📫 How to reach me soroush.najafi89@gmail.com
 
 <!---
